@@ -9,7 +9,7 @@ Programming Languages & Tools: Python, C++, Java, SQL, TypeScript, Verilog
 Technologies: Azure (AZ900, AI900, DP900 certified), AWS, Power BI, SeeQ, Git, Docker, Codecov, Jira & Agile
 ### Publications
 
-X. Chen, Y. Chen, F. Jing, & H. Najjaran (2019). libSmart: an Open-Source Tool for Simple Integration of Deep Learning into Intelligent Robotic Systems [Link]https://ieeexplore.ieee.org/document/9043946
+X. Chen, Y. Chen, F. Jing, & H. Najjaran (2019). libSmart: an Open-Source Tool for Simple Integration of Deep Learning into Intelligent Robotic Systems https://ieeexplore.ieee.org/document/9043946
 
 #### Soical Media
 
