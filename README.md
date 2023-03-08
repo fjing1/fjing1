@@ -8,6 +8,7 @@ Technologies: Azure (AZ900, AI900, DP900 certified), AWS, Power BI, SeeQ, Git, D
 
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]
 https://www.youtube.com/channel/UCqrVpCVCyYtzZu78P3Fsi9A
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]
 https://www.linkedin.com/in/felix-jing/
 
