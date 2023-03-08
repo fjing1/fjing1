@@ -4,6 +4,8 @@ My name is Felix Jing and I am a software developer with experience in TypeScrip
 
 Skills
 Programming Languages & Tools: Python, C++, Java, SQL, TypeScript, Verilog
+
+
 Technologies: Azure (AZ900, AI900, DP900 certified), AWS, Power BI, SeeQ, Git, Docker, Codecov, Jira & Agile
 
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]
