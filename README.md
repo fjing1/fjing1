@@ -11,6 +11,9 @@ Technologies: Azure (AZ900, AI900, DP900 certified), AWS, Power BI, SeeQ, Git, D
 
 X. Chen, Y. Chen, F. Jing, & H. Najjaran (2019). libSmart: an Open-Source Tool for Simple Integration of Deep Learning into Intelligent Robotic Systems https://ieeexplore.ieee.org/document/9043946
 
+### Award
+Two times awardee of the most presitigous Canadian Undergrad Research Award: 2018 NSERC USRA, 2019 NSERC USRA
+
 #### Soical Media
 
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]
