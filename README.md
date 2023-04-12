@@ -13,6 +13,7 @@ X. Chen, Y. Chen, F. Jing, & H. Najjaran (2019). libSmart: an Open-Source Tool f
 
 ### Award
 Two times awardee of the most presitigous Canadian Undergrad Research Award: 2018 NSERC USRA, 2019 NSERC USRA
+NSERC USRA description: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
 
 #### Soical Media
 
