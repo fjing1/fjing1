@@ -1,8 +1,10 @@
 ### Welcome to my github 👋
 
-My name is Felix Jing and I am a software developer with experience in TypeScript, Python, C++, Java, SQL, and Verilog. I have worked with technologies such as Azure, AWS, Power BI, SeeQ, Git, Docker, Codecov, Jira, and Agile.
+I am Felix Jing, a seasoned software engineer with a robust skill set in programming languages including TypeScript, Python, C++, Java, SQL, and Verilog. My technical expertise extends to a suite of technologies encompassing Azure, AWS, Power BI, SeeQ, Git, Docker, Codecov, Jira, and Agile methodologies.
 
-Skills
+I am honored to have been the recipient of the NSERC USRA award in both 2018 and 2019, a testament to my commitment to excellence in undergraduate research among Canadian university students.
+
+**Skills**
 Programming Languages & Tools: Python, C++, Java, SQL, TypeScript, Verilog
 
 
